@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Basketball Website</title>
+</head>
+
+<body>
+
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/960px-National_Basketball_Association_logo.svg.png"
+width="180" height="180" alt="NBA Logo">
+</center>
+
+<h1>What is Basketball?</h1>
+
+<p>
+Basketball is a team sport played by two teams of five players. The goal is to score points by shooting the ball through the opponent's hoop. A field goal is worth 2 or 3 points, and a free throw is worth 1 point.
+</p>
+
+<hr>
+
+<h2>Basic Rules</h2>
+<ul>
+<li>5 players on each team</li>
+<li>4 quarters per game</li>
+<li>Players must dribble while moving</li>
+<li>Highest score wins</li>
+</ul>
+
+<h2>Positions in Basketball</h2>
+
+<img src="http://www.fiveminutesspare.com/nba/wp-content/uploads/sites/21/2019/04/Basketball-positions-2-1024x712.jpg"
+width="320" height="220" alt="Basketball Positions">
+
+<ul>
+<li>Point Guard (PG) – Game controller</li>
+<li>Shooting Guard (SG) – Shooter</li>
+<li>Small Forward (SF) – Flexible scorer</li>
+<li>Power Forward (PF) – Strong inside player</li>
+<li>Center (C) – Tallest player, near basket</li>
+</ul>
+
+<hr>
+
+<h2>NBA Superstars</h2>
+
+<ul>
+<li>LeBron James</li>
+<li>Stephen Curry</li>
+<li>Giannis Antetokounmpo</li>
+<li>Nikola Jokić</li>
+<li>Victor Wembanyama</li>
+</ul>
+
+<img src="https://media.cnn.com/api/v1/images/stellar/prod/230515144158-04-victor-wembanyama-2022.jpg"
+width="220" height="260" alt="Victor Wembanyama">
+
+<hr>
+
+<h2>NBA Court</h2>
+
+<img src="https://cdn.nba.com/manage/2020/10/2020-finals-court-2-784x527.jpg"
+width="350" height="220" alt="NBA Court">
+
+<p>
+The NBA is the most famous basketball league in the world, based in the United States and Canada.
+</p>
+
+<hr>
+
+<h2>Major Basketball Leagues</h2>
+
+<ul>
+<li>NBA (USA & Canada)</li>
+<li>0</li>
+<li>1 competitions</li>
+</ul>
+
+<hr>
+
+<h2>Latest NBA News</h2>
+
+<ul>
+<li>2026 NBA Finals: Knicks vs Spurs</li>
+<li>Spurs won Game 3: 115–111</li>
+<li>Victor Wembanyama had 32 points in Game 3</li>
+<li>Game 4 scheduled for June 10, 2026</li>
+</ul>
+
+<hr>
+
+<h2>Official NBA Website</h2>
+<a href="https://www.nba.com" target="_blank">Visit NBA.com</a>
+
+</body>
+</html>
